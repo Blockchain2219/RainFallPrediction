@@ -18,7 +18,7 @@ This repository contains the implementation of a rainfall prediction system that
 The rainfall prediction system aims to forecast rainfall patterns using historical weather data and an LSTM (Long Short-Term Memory) model. The system receives real-time rainfall data from a NodeMCU device through a serial connection, and the predictions are communicated through the WhatsApp API. This system provides alerts and notifications based on predefined rainfall thresholds or specific conditions.
 
 ## Installation
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/rainfall-prediction.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/Blockchain2219/rainfall-prediction.git`.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 
 ## Usage
